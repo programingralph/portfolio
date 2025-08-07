@@ -11,7 +11,7 @@ const projects = [
     name: "Book review",
     description: "A responsive web app built with React that allows book reviews",
     image: "bookreviewdemo.png",
-    url: "https://github.com/programingralph/book_reviews",
+    url: "https://reviewyourbooks.netlify.app/",
   },
   {
     name: "Task Brisker",
