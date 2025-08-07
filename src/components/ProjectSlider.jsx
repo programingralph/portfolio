@@ -23,7 +23,7 @@ const projects = [
     name: "Game Price Finder",
     description: "A video game price finder app using API made with React",
     image: "pricefinderapp.png",
-    url: "https://github.com/programingralph/Game-Price-Finder",
+    url: "https://cheapestgameprice.netlify.app/",
   },
 ];
 
