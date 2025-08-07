@@ -17,7 +17,7 @@ const projects = [
     name: "Task Brisker",
     description: "A task manager app built with React",
     image: "taskbrisker.png",
-    url: "https://github.com/programingralph/TaskManager",
+    url: "https://taskbrisker.netlify.app/",
   },
   {
     name: "Game Price Finder",
